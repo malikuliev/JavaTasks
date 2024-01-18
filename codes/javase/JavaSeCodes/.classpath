@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src3"/>
+	<classpathentry kind="src" path="src4"/>
+	<classpathentry kind="src" path="src5"/>
+	<classpathentry kind="src" path="src6"/>
+	<classpathentry kind="src" path="src7"/>
+	<classpathentry kind="src" path="src8"/>
+	<classpathentry kind="src" path="src9"/>
+	<classpathentry kind="src" path="yeni"/>
+	<classpathentry kind="src" path="src10"/>
+	<classpathentry kind="src" path="src11"/>
+	<classpathentry kind="src" path="src12"/>
+	<classpathentry kind="src" path="src13"/>
+	<classpathentry kind="src" path="src14"/>
+	<classpathentry kind="src" path="src15"/>
+	<classpathentry kind="src" path="src19"/>
+	<classpathentry kind="src" path="src20"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
